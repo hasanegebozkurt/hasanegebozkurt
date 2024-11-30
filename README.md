@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hasanegebozkurt
-- 👀 I’m interested in game development, software engineering, and technology trends.
+- 👀 I’m interested in game development, web development, and technology trends.
 - 🌱 I’m currently learning Unity, HTML, CSS and JavaScript programming.
 - 💞️ I’m looking to collaborate on innovative game projects and open-source software.
 - 📫 How to reach me: hasanegebzk@gmail.com
